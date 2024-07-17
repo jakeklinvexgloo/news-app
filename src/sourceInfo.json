@@ -1,0 +1,752 @@
+{
+    "status": 200,
+    "numResults": 7,
+    "results": [
+    {
+    "id": "45e57ba319ff466fb72f147d19f41e7e",
+    "domain": "cbn.com",
+    "name": "CBN News",
+    "altNames": [
+    "Christian Broadcasting",
+    "Christian Broadcasting Network",
+    "Christian",
+    "Faith",
+    "lisa smith",
+    "CBN.com"
+    ],
+    "description": "Christian Broadcasting Network is a faith-based nonprofit organization that provides international news.",
+    "avgMonthlyPosts": 0,
+    "paywall": false,
+    "location": null,
+    "topCategories": [],
+    "topTopics": [],
+    "topCountries": [],
+    "topLabels": [],
+    "avgBiasRating": null,
+    "adFontesBiasRating": "Leans Right",
+    "allSidesBiasRating": "Right",
+    "mbfcBiasRating": "Right",
+    "monthlyVisits": 2821081,
+    "globalRank": 25287,
+    "logoLarge": {
+    "url": "https://storage.googleapis.com/dev-dispatch-276213.appspot.com/CBN_Small_449738f870/CBN-Small_CBN_Small_449738f870.png"
+    },
+    "logoFavIcon": {
+    "url": "https://storage.googleapis.com/dev-dispatch-276213.appspot.com/CBN_Fav_Icon_97ba5b3b71/CBN-FavIcon_CBN_Fav_Icon_97ba5b3b71.png"
+    },
+    "logoSquare": {
+    "url": "https://storage.googleapis.com/dev-dispatch-276213.appspot.com/CBN_Square_1ed1962ddb/CBN-Square_CBN_Square_1ed1962ddb.png"
+    }
+    },
+    {
+    "id": "394bf9475472432c908bad768eff4614",
+    "domain": "relevantmagazine.com",
+    "name": "RELEVANT Magazine",
+    "altNames": [],
+    "description": "",
+    "avgMonthlyPosts": 69,
+    "paywall": false,
+    "location": null,
+    "topCategories": [
+    {
+    "name": "Lifestyle",
+    "count": 16
+    },
+    {
+    "name": "Entertainment",
+    "count": 6
+    },
+    {
+    "name": "Politics",
+    "count": 2
+    },
+    {
+    "name": "Sports",
+    "count": 2
+    },
+    {
+    "name": "Environment",
+    "count": 1
+    },
+    {
+    "name": "Finance",
+    "count": 1
+    },
+    {
+    "name": "General",
+    "count": 1
+    },
+    {
+    "name": "Tech",
+    "count": 1
+    }
+    ],
+    "topTopics": [
+    {
+    "name": "Social Issues",
+    "count": 4
+    },
+    {
+    "name": "Abortion",
+    "count": 3
+    },
+    {
+    "name": "Music",
+    "count": 3
+    },
+    {
+    "name": "Christianity",
+    "count": 2
+    },
+    {
+    "name": "Football",
+    "count": 2
+    },
+    {
+    "name": "Supreme Court",
+    "count": 2
+    },
+    {
+    "name": "5G",
+    "count": 1
+    },
+    {
+    "name": "Academia",
+    "count": 1
+    },
+    {
+    "name": "Crime",
+    "count": 1
+    },
+    {
+    "name": "Dallas Cowboys",
+    "count": 1
+    }
+    ],
+    "topCountries": [
+    {
+    "name": "us",
+    "count": 63
+    }
+    ],
+    "topLabels": [
+    {
+    "name": "Low Content",
+    "count": 33
+    },
+    {
+    "name": "Non-news",
+    "count": 6
+    },
+    {
+    "name": "Pop Culture",
+    "count": 5
+    }
+    ],
+    "avgBiasRating": null,
+    "adFontesBiasRating": null,
+    "allSidesBiasRating": "Lean Left",
+    "mbfcBiasRating": null,
+    "monthlyVisits": 387238,
+    "globalRank": 163807,
+    "logoLarge": null,
+    "logoFavIcon": {
+    "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://relevantmagazine.com&size=32"
+    },
+    "logoSquare": null
+    },
+    {
+    "id": "29105cd9493d4ce68f2bd1a4b9676cd2",
+    "domain": "christianitytoday.com",
+    "name": "ChristianityToday.com",
+    "altNames": [],
+    "description": "",
+    "avgMonthlyPosts": 114,
+    "paywall": true,
+    "location": null,
+    "topCategories": [
+    {
+    "name": "Politics",
+    "count": 5
+    },
+    {
+    "name": "Finance",
+    "count": 1
+    },
+    {
+    "name": "General",
+    "count": 1
+    },
+    {
+    "name": "Health",
+    "count": 1
+    },
+    {
+    "name": "Tech",
+    "count": 1
+    }
+    ],
+    "topTopics": [
+    {
+    "name": "Christianity",
+    "count": 11
+    },
+    {
+    "name": "Podcasts",
+    "count": 11
+    },
+    {
+    "name": "Social Issues",
+    "count": 7
+    },
+    {
+    "name": "Social-ESG",
+    "count": 4
+    },
+    {
+    "name": "Corruption",
+    "count": 3
+    },
+    {
+    "name": "Abortion",
+    "count": 2
+    },
+    {
+    "name": "Fraud",
+    "count": 2
+    },
+    {
+    "name": "Governance-ESG",
+    "count": 2
+    },
+    {
+    "name": "LGBTQ",
+    "count": 2
+    },
+    {
+    "name": "AI",
+    "count": 1
+    }
+    ],
+    "topCountries": [
+    {
+    "name": "us",
+    "count": 77
+    }
+    ],
+    "topLabels": [
+    {
+    "name": "Non-news",
+    "count": 7
+    }
+    ],
+    "avgBiasRating": null,
+    "adFontesBiasRating": null,
+    "allSidesBiasRating": "Lean Right",
+    "mbfcBiasRating": null,
+    "monthlyVisits": 2230493,
+    "globalRank": 36160,
+    "logoLarge": null,
+    "logoFavIcon": {
+    "url": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://christianitytoday.com&size=32"
+    },
+    "logoSquare": null
+    },
+    {
+    "id": "09481e999f2e42998f73193edecd3b12",
+    "domain": "churchleaders.com",
+    "name": "Church Leaders",
+    "altNames": [],
+    "description": "for leaders in the church: senior pastors, worship leaders, youth leaders, outreach leaders, children's ministry leaders, small group leaders",
+    "avgMonthlyPosts": 184,
+    "paywall": false,
+    "location": null,
+    "topCategories": [
+    {
+    "name": "Entertainment",
+    "count": 8
+    },
+    {
+    "name": "Politics",
+    "count": 8
+    },
+    {
+    "name": "General",
+    "count": 6
+    },
+    {
+    "name": "Environment",
+    "count": 3
+    },
+    {
+    "name": "Sports",
+    "count": 3
+    },
+    {
+    "name": "Business",
+    "count": 2
+    },
+    {
+    "name": "Finance",
+    "count": 1
+    },
+    {
+    "name": "Health",
+    "count": 1
+    },
+    {
+    "name": "Tech",
+    "count": 1
+    }
+    ],
+    "topTopics": [
+    {
+    "name": "Christianity",
+    "count": 33
+    },
+    {
+    "name": "Crime",
+    "count": 7
+    },
+    {
+    "name": "Social Issues",
+    "count": 5
+    },
+    {
+    "name": "Holidays",
+    "count": 4
+    },
+    {
+    "name": "Independence Day",
+    "count": 3
+    },
+    {
+    "name": "Sexual Exploitation",
+    "count": 3
+    },
+    {
+    "name": "Academia",
+    "count": 2
+    },
+    {
+    "name": "Environment-ESG",
+    "count": 2
+    },
+    {
+    "name": "In Memoriam",
+    "count": 2
+    },
+    {
+    "name": "LGBTQ",
+    "count": 2
+    }
+    ],
+    "topCountries": [
+    {
+    "name": "us",
+    "count": 176
+    }
+    ],
+    "topLabels": [
+    {
+    "name": "Non-news",
+    "count": 18
+    },
+    {
+    "name": "Pop Culture",
+    "count": 4
+    },
+    {
+    "name": "Opinion",
+    "count": 2
+    },
+    {
+    "name": "Low Content",
+    "count": 1
+    }
+    ],
+    "avgBiasRating": null,
+    "adFontesBiasRating": null,
+    "allSidesBiasRating": "Center",
+    "mbfcBiasRating": null,
+    "monthlyVisits": 748884,
+    "globalRank": 83354,
+    "logoLarge": null,
+    "logoFavIcon": {
+    "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://churchleaders.com&size=32"
+    },
+    "logoSquare": null
+    },
+    {
+    "id": "6fb5f60945d4452ca684b84a0d9acd20",
+    "domain": "christianpost.com",
+    "name": "The Christian Post",
+    "altNames": [],
+    "description": "an online christian news publication with the latest headlines relevant to christians. new stories updated daily from a christian worldview.",
+    "avgMonthlyPosts": 430,
+    "paywall": false,
+    "location": null,
+    "topCategories": [
+    {
+    "name": "Politics",
+    "count": 81
+    },
+    {
+    "name": "General",
+    "count": 20
+    },
+    {
+    "name": "Entertainment",
+    "count": 11
+    },
+    {
+    "name": "Sports",
+    "count": 10
+    },
+    {
+    "name": "Health",
+    "count": 3
+    },
+    {
+    "name": "Finance",
+    "count": 2
+    },
+    {
+    "name": "Lifestyle",
+    "count": 2
+    },
+    {
+    "name": "Travel",
+    "count": 2
+    },
+    {
+    "name": "Environment",
+    "count": 1
+    },
+    {
+    "name": "Science",
+    "count": 1
+    }
+    ],
+    "topTopics": [
+    {
+    "name": "Christianity",
+    "count": 49
+    },
+    {
+    "name": "Social Issues",
+    "count": 49
+    },
+    {
+    "name": "LGBTQ",
+    "count": 29
+    },
+    {
+    "name": "Crime",
+    "count": 27
+    },
+    {
+    "name": "Supreme Court",
+    "count": 21
+    },
+    {
+    "name": "Social-ESG",
+    "count": 17
+    },
+    {
+    "name": "Abortion",
+    "count": 16
+    },
+    {
+    "name": "Lawsuits",
+    "count": 6
+    },
+    {
+    "name": "Muslim",
+    "count": 6
+    },
+    {
+    "name": "Sexual Exploitation",
+    "count": 5
+    }
+    ],
+    "topCountries": [
+    {
+    "name": "us",
+    "count": 397
+    }
+    ],
+    "topLabels": [
+    {
+    "name": "Non-news",
+    "count": 30
+    },
+    {
+    "name": "Opinion",
+    "count": 8
+    },
+    {
+    "name": "Low Content",
+    "count": 5
+    },
+    {
+    "name": "Pop Culture",
+    "count": 2
+    }
+    ],
+    "avgBiasRating": null,
+    "adFontesBiasRating": null,
+    "allSidesBiasRating": "Lean Right",
+    "mbfcBiasRating": null,
+    "monthlyVisits": 2901439,
+    "globalRank": 25721,
+    "logoLarge": null,
+    "logoFavIcon": {
+    "url": "https://web-business-assets.s3.us-east-2.amazonaws.com/christianpost.com.ico"
+    },
+    "logoSquare": null
+    },
+    {
+    "id": "0fff1c03ab3f454a8c52f01f2a24db0c",
+    "domain": "washingtoninformer.com",
+    "name": "The Washington Informer",
+    "altNames": [],
+    "description": "The Washington Informer delivers comprehensive news coverage specializing in the District of Columbia area. Key topics include local politics, community events, education, and social issues, providing insightful analysis and updates pertinent to D.C. residents.",
+    "avgMonthlyPosts": 74,
+    "paywall": false,
+    "location": {
+    "country": "us",
+    "state": "DC",
+    "city": "Washington",
+    "coordinates": {
+    "lat": 38.8950368,
+    "lon": -77.0365427
+    }
+    },
+    "topCategories": [
+    {
+    "name": "Politics",
+    "count": 20
+    },
+    {
+    "name": "Health",
+    "count": 2
+    },
+    {
+    "name": "Entertainment",
+    "count": 1
+    },
+    {
+    "name": "Environment",
+    "count": 1
+    },
+    {
+    "name": "Sports",
+    "count": 1
+    }
+    ],
+    "topTopics": [
+    {
+    "name": "Governance-ESG",
+    "count": 7
+    },
+    {
+    "name": "Social-ESG",
+    "count": 7
+    },
+    {
+    "name": "Social Issues",
+    "count": 6
+    },
+    {
+    "name": "African American",
+    "count": 3
+    },
+    {
+    "name": "Supreme Court",
+    "count": 3
+    },
+    {
+    "name": "Traffic",
+    "count": 3
+    },
+    {
+    "name": "Academia",
+    "count": 2
+    },
+    {
+    "name": "Drones",
+    "count": 2
+    },
+    {
+    "name": "2024 Elections",
+    "count": 1
+    },
+    {
+    "name": "ACLU",
+    "count": 1
+    }
+    ],
+    "topCountries": [
+    {
+    "name": "us",
+    "count": 57
+    }
+    ],
+    "topLabels": [
+    {
+    "name": "Low Content",
+    "count": 3
+    },
+    {
+    "name": "Non-news",
+    "count": 1
+    },
+    {
+    "name": "Roundup",
+    "count": 1
+    }
+    ],
+    "avgBiasRating": null,
+    "adFontesBiasRating": null,
+    "allSidesBiasRating": "Lean Left",
+    "mbfcBiasRating": null,
+    "monthlyVisits": 71796,
+    "globalRank": 782135,
+    "logoLarge": null,
+    "logoFavIcon": {
+    "url": "https://web-business-assets.s3.us-east-2.amazonaws.com/washingtoninformer.com.png"
+    },
+    "logoSquare": null
+    },
+    {
+    "id": "b7585cee3950489fb00783d6d77ae312",
+    "domain": "wng.org",
+    "name": "WORLD News Group",
+    "altNames": [],
+    "description": "world is a news organization producing biblically sound, daily coverage of global, national, and cultural current events.",
+    "avgMonthlyPosts": 422,
+    "paywall": false,
+    "location": null,
+    "topCategories": [
+    {
+    "name": "Politics",
+    "count": 103
+    },
+    {
+    "name": "General",
+    "count": 12
+    },
+    {
+    "name": "Weather",
+    "count": 6
+    },
+    {
+    "name": "Health",
+    "count": 5
+    },
+    {
+    "name": "Environment",
+    "count": 4
+    },
+    {
+    "name": "Travel",
+    "count": 4
+    },
+    {
+    "name": "Tech",
+    "count": 3
+    },
+    {
+    "name": "Entertainment",
+    "count": 2
+    },
+    {
+    "name": "Science",
+    "count": 1
+    },
+    {
+    "name": "Sports",
+    "count": 1
+    }
+    ],
+    "topTopics": [
+    {
+    "name": "Podcasts",
+    "count": 113
+    },
+    {
+    "name": "Supreme Court",
+    "count": 29
+    },
+    {
+    "name": "Social Issues",
+    "count": 27
+    },
+    {
+    "name": "Russia-Ukraine War",
+    "count": 23
+    },
+    {
+    "name": "Abortion",
+    "count": 13
+    },
+    {
+    "name": "Crime",
+    "count": 13
+    },
+    {
+    "name": "GOP",
+    "count": 10
+    },
+    {
+    "name": "Media",
+    "count": 9
+    },
+    {
+    "name": "Governance-ESG",
+    "count": 8
+    },
+    {
+    "name": "Lawsuits",
+    "count": 7
+    }
+    ],
+    "topCountries": [
+    {
+    "name": "us",
+    "count": 418
+    }
+    ],
+    "topLabels": [
+    {
+    "name": "Opinion",
+    "count": 57
+    },
+    {
+    "name": "Non-news",
+    "count": 11
+    },
+    {
+    "name": "Roundup",
+    "count": 2
+    },
+    {
+    "name": "Low Content",
+    "count": 1
+    }
+    ],
+    "avgBiasRating": null,
+    "adFontesBiasRating": null,
+    "allSidesBiasRating": "Right",
+    "mbfcBiasRating": null,
+    "monthlyVisits": 1082633,
+    "globalRank": 57215,
+    "logoLarge": null,
+    "logoFavIcon": {
+    "url": "https://web-business-assets.s3.us-east-2.amazonaws.com/wng.org.ico"
+    },
+    "logoSquare": null
+    }
+    ]
+    }
